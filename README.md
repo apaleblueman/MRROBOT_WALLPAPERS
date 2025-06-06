@@ -30,5 +30,5 @@
 
 ![pic17](./images/pic17.jpg)
 
-![pic18](./images/pic18.jpg)
+![pic18](./images/pic18.png)
 
