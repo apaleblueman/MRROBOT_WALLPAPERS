@@ -1,5 +1,6 @@
 ## Preview
 
+![pic18](./images/pic18.png)
 ![pic2](./images/pic2.png)
 
 ![pic3](./images/pic3.png)
@@ -30,5 +31,4 @@
 
 ![pic17](./images/pic17.jpg)
 
-![pic18](./images/pic18.png)
 
